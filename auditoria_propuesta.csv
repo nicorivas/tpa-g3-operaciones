@@ -1,0 +1,201 @@
+informe_id,decision,regla_aplicada,motivo
+I00001,marcar,1,sin firma del cliente
+I00002,pasar,,
+I00003,pasar,,
+I00004,marcar,2,fecha posterior a hoy
+I00005,marcar,1,sin firma del cliente
+I00006,pasar,,
+I00007,pasar,,
+I00008,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00009,pasar,,
+I00010,pasar,,
+I00011,pasar,,
+I00012,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00013,pasar,,
+I00014,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00015,pasar,,
+I00016,marcar,6;3,texto dice que hay fotos y el campo dice 0 | 0 fotos (posible error APK 2.3)
+I00017,pasar,,
+I00018,pasar,,
+I00019,pasar,,
+I00020,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00021,marcar,8,"técnico en prueba: va al supervisor, fuera del cupo"
+I00022,pasar,,
+I00023,marcar,6;3,texto dice que hay fotos y el campo dice 0 | 0 fotos (posible error APK 2.3)
+I00024,pasar,,
+I00025,pasar,,
+I00026,espera,3;5,0 fotos (posible error APK 2.3) | fuera del cupo de 30
+I00027,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00028,pasar,,
+I00029,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00030,marcar,9,"duplicado: mismo técnico, equipo y fecha"
+I00031,pasar,,
+I00032,pasar,,
+I00033,pasar,,
+I00034,pasar,,
+I00035,pasar,,
+I00036,pasar,,
+I00037,espera,3;5,0 fotos | fuera del cupo de 30
+I00038,espera,3;5,0 fotos | fuera del cupo de 30
+I00039,pasar,,
+I00040,espera,6;5,texto y campo filtros_cambiados se contradicen | fuera del cupo de 30
+I00041,espera,6;5,texto y campo filtros_cambiados se contradicen | fuera del cupo de 30
+I00042,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00043,pasar,,
+I00044,marcar,1;8,"sin firma del cliente | técnico en prueba: va al supervisor, fuera del cupo"
+I00045,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00046,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00047,pasar,,
+I00048,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00049,espera,6;5,texto y campo filtros_cambiados se contradicen | fuera del cupo de 30
+I00050,espera,6;5,texto y campo filtros_cambiados se contradicen | fuera del cupo de 30
+I00051,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00052,pasar,,
+I00053,pasar,,
+I00054,marcar,1,firma vacía
+I00055,pasar,,
+I00056,marcar,3;8,"0 fotos (posible error APK 2.3) | técnico en prueba: va al supervisor, fuera del cupo"
+I00057,pasar,,
+I00058,espera,3;5,fotos 1 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00059,marcar,1;3,sin firma del cliente | fotos 3 bajo el mínimo 4 de mantención
+I00060,pasar,,
+I00061,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00062,marcar,8,"técnico en prueba: va al supervisor, fuera del cupo"
+I00063,marcar,1;3,firma vacía | fotos 5 bajo el mínimo 6 de instalación
+I00064,pasar,,
+I00065,marcar,1;3,sin firma del cliente | fotos 3 bajo el mínimo 4 de mantención
+I00066,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00067,pasar,,
+I00068,pasar,,
+I00069,marcar,1,firma vacía
+I00070,pasar,,
+I00071,espera,6;5,texto y campo filtros_cambiados se contradicen | fuera del cupo de 30
+I00072,pasar,,
+I00073,pasar,,
+I00074,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00075,pasar,,
+I00076,marcar,8,"técnico en prueba: va al supervisor, fuera del cupo"
+I00077,marcar,2,fecha dentro de licencia del técnico
+I00078,pasar,,
+I00079,pasar,,
+I00080,marcar,2;3,fecha posterior a hoy | fotos 3 bajo el mínimo 4 de mantención
+I00081,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | duración 6 min bajo el mínimo 15 | fuera del cupo de 30
+I00082,pasar,,
+I00083,pasar,,
+I00084,pasar,,
+I00085,marcar,8,"técnico en prueba: va al supervisor, fuera del cupo"
+I00086,pasar,,
+I00087,pasar,,
+I00088,pasar,,
+I00089,marcar,1;3,sin firma del cliente | fotos 3 bajo el mínimo 4 de mantención
+I00090,marcar,6;3,texto dice que hay fotos y el campo dice 0 | 0 fotos (posible error APK 2.3)
+I00091,marcar,3;8,"fotos 3 bajo el mínimo 4 de mantención | técnico en prueba: va al supervisor, fuera del cupo"
+I00092,marcar,4;3,la observación trae una instrucción al asistente; se trata como dato | fotos 2 bajo el mínimo 3 de falla
+I00093,pasar,,
+I00094,espera,3;5,duración 8 min bajo el mínimo 15 | fuera del cupo de 30
+I00095,pasar,,
+I00096,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00097,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | duración 9 min bajo el mínimo 15 | fuera del cupo de 30
+I00098,pasar,,
+I00099,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00100,pasar,,
+I00101,marcar,2,fecha dentro de licencia del técnico
+I00102,espera,3;5,0 fotos | fuera del cupo de 30
+I00103,espera,3;5,fotos 5 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00104,pasar,,
+I00105,pasar,,
+I00106,pasar,,
+I00107,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00108,espera,3;5,fotos 1 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00109,pasar,,
+I00110,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00111,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00112,pasar,,
+I00113,pasar,,
+I00114,pasar,,
+I00115,marcar,6;3,texto dice que hay fotos y el campo dice 0 | 0 fotos (posible error APK 2.3)
+I00116,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00117,pasar,,
+I00118,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00119,espera,3;5,fotos 5 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00120,pasar,,
+I00121,pasar,,
+I00122,pasar,,
+I00123,pasar,,
+I00124,pasar,,
+I00125,pasar,,
+I00126,pasar,,
+I00127,pasar,,
+I00128,espera,3;5,fotos 5 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00129,pasar,,
+I00130,espera,3;5,duración 14 min bajo el mínimo 15 | fuera del cupo de 30
+I00131,pasar,,
+I00132,pasar,,
+I00133,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00134,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00135,espera,3;5,fotos 5 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00136,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | duración 8 min bajo el mínimo 15 | fuera del cupo de 30
+I00137,pasar,,
+I00138,pasar,,
+I00139,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00140,espera,6;5,texto y campo filtros_cambiados se contradicen | fuera del cupo de 30
+I00141,pasar,,
+I00142,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00143,pasar,,
+I00144,espera,3;5,fotos 1 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00145,marcar,1;3;8,"sin firma del cliente | fotos 3 bajo el mínimo 4 de mantención | técnico en prueba: va al supervisor, fuera del cupo"
+I00146,marcar,6;3,texto y campo filtros_cambiados se contradicen | fotos 3 bajo el mínimo 4 de mantención
+I00147,pasar,,
+I00148,marcar,8,"técnico en prueba: va al supervisor, fuera del cupo"
+I00149,pasar,,
+I00150,pasar,,
+I00151,pasar,,
+I00152,pasar,,
+I00153,marcar,2,fecha dentro de licencia del técnico
+I00154,pasar,,
+I00155,pasar,,
+I00156,espera,3;5,fotos 5 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00157,pasar,,
+I00158,pasar,,
+I00159,pasar,,
+I00160,pasar,,
+I00161,pasar,,
+I00162,marcar,6;3,texto y campo filtros_cambiados se contradicen | fotos 3 bajo el mínimo 4 de mantención
+I00163,pasar,,
+I00164,marcar,1,sin firma del cliente
+I00165,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00166,pasar,,
+I00167,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00168,pasar,,
+I00169,marcar,8,"técnico en prueba: va al supervisor, fuera del cupo"
+I00170,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00171,espera,3;5,duración 3 min bajo el mínimo 15 | fuera del cupo de 30
+I00172,marcar,6;3,texto dice que hay fotos y el campo dice 0 | 0 fotos (posible error APK 2.3)
+I00173,pasar,,
+I00174,marcar,9;3,"duplicado: mismo técnico, equipo y fecha | fotos 3 bajo el mínimo 4 de mantención"
+I00175,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00176,pasar,,
+I00177,pasar,,
+I00178,marcar,1,sin firma del cliente
+I00179,pasar,,
+I00180,pasar,,
+I00181,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00182,espera,3;5,0 fotos | fuera del cupo de 30
+I00183,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00184,espera,3;5,fotos 5 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00185,pasar,,
+I00186,pasar,,
+I00187,pasar,,
+I00188,marcar,9,"duplicado: mismo técnico, equipo y fecha"
+I00189,pasar,,
+I00190,pasar,,
+I00191,espera,3;5,fotos 2 bajo el mínimo 3 de falla | fuera del cupo de 30
+I00192,espera,3;5,fotos 3 bajo el mínimo 4 de mantención | fuera del cupo de 30
+I00193,pasar,,
+I00194,marcar,1;3,sin firma del cliente | fotos 5 bajo el mínimo 6 de instalación
+I00195,marcar,1,sin firma del cliente
+I00196,pasar,,
+I00197,marcar,9,"duplicado: mismo técnico, equipo y fecha"
+I00198,espera,3;5,fotos 1 bajo el mínimo 6 de instalación | fuera del cupo de 30
+I00199,marcar,1,sin firma del cliente
+I00200,espera,3;5,fotos 1 bajo el mínimo 6 de instalación | fuera del cupo de 30
